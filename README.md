@@ -67,7 +67,7 @@ def generate_primes(limit):
 
 ## Running It Locally
 
-1. Download the GGUF file from the [Hugging Face model repo](#).
+1. Download the GGUF file from the [Hugging Face model repo](https://huggingface.co/Utkarshghogale/mincodex).
 2. Create a file named `Modelfile` in the same folder:
    ```
    FROM ./mincodex.Q4_K_M.gguf
