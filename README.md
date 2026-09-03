@@ -13,7 +13,7 @@ A fine-tuned, locally-deployable coding assistant built on **Qwen2.5-Coder-3B-In
 | **Training hardware** | Kaggle free-tier GPU (Tesla T4, 16GB) |
 | **Deployment format** | GGUF (Q4_K_M quantization) |
 | **Runtime** | [Ollama](https://ollama.com) — fully offline, no cloud dependency |
-| **Model weights** | [huggingface.co/your-username/mincodex](#) *(update with your actual HF repo link)* |
+| **Model weights** | [huggingface.co/your-username/mincodex](https://huggingface.co/Utkarshghogale/mincodex) *(update with your actual HF repo link)* |
 
 ## Specialization
 
